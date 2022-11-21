@@ -12,7 +12,7 @@
 
 
 
-## Cronograma de aulas - 2022 - 1s
+## Cronograma de aulas - 2022 - 2s
 
 ### Módulo 1
 
