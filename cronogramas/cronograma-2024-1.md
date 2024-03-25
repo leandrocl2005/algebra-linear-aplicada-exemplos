@@ -58,17 +58,17 @@
 
 ### Outras datas
 
-- 2ª chamada: 09/06
-- Exame: 23/06
+- 2ª chamada: 09/07
+- Exame: 23/07
 
 ### Avaliação:
 Cada atividade avaliativa vale 2 pontos finais na média final MF.
 
-Se MF >=4 e MF < 7, o aluno fica de exame final EXA.
+Se MF >=4 e MF < 6, o aluno fica de exame final EXA.
 
 Se MF < 4, o aluno é reprovado diretamente.
 
-Se MF >=7, o aluno é aprovado diretamente.
+Se MF >=6, o aluno é aprovado diretamente.
 
 Caso o aluno tenha ficado de exame MF é substituido pela nota final NF obtida pela média entre MF e EXA. Neste caso se NF >=6, o aluno é aprovado. Se NF < 6, o aluno é reprovado.
 
