@@ -9,7 +9,7 @@
 
 - https://discord.gg/vY22NHRY
 
-## Cronograma de aulas - 2022 - 2s
+## Cronograma de aulas - 2024 - 1s
 
 ### Módulo 1
 
@@ -18,41 +18,41 @@
 - Aula 03: 26/03 - Operações e matrizes elementares, matriz inversa
 - Aula 04: 02/04 - Forma escada, determinante, posto e nulidade
 - Aula 05: 04/04 - Revisão
-- Aula 06: 09/04 - Atividade avaliativa
+- Aula 06: 11/04 - Atividade avaliativa
 
 ### Módulo 2
 
-- Aula 07: 11/04 - Espaços vetoriais
-- Aula 08: 16/04 - Subspaços vetoriais
-- Aula 09: 18/04 - Bases e matriz mudança de base
-- Aula 10: 23/04 - Propriedades de base
-- Aula 11: 25/04 - Revisão
-- Aula 12: 30/04 - Atividade avaliativa
+- Aula 07: 16/04 - Espaços vetoriais
+- Aula 08: 18/04 - Subspaços vetoriais
+- Aula 09: 23/04 - Bases e matriz mudança de base
+- Aula 10: 25/04 - Propriedades de base
+- Aula 11: 30/04 - Revisão
+- Aula 12: 02/05 - Atividade avaliativa
 
 ### Módulo 3
 
-- Aula 13: 02/05 - Transformação linear, núcleo, imagem, posto e nulidade
-- Aula 14: 07/05 - Teorema do isomorfismo
-- Aula 15: 09/05 - Forma matricial de transformações lineares
-- Aula 16: 14/05 - Álgebras lineares e isomorfismo de álgebras lineares
-- Aula 17: 16/05 - Revisão
-- Aula 18: 21/05 - Atividade avaliativa
+- Aula 13: 07/05 - Transformação linear, núcleo, imagem, posto e nulidade
+- Aula 14: 09/05 - Teorema do isomorfismo
+- Aula 15: 14/05 - Forma matricial de transformações lineares
+- Aula 16: 16/05 - Álgebras lineares e isomorfismo de álgebras lineares
+- Aula 17: 21/05 - Revisão
+- Aula 18: 23/05 - Atividade avaliativa
 
 ### Módulo 4
 
-- Aula 19: 23/05 - Auto-valores e auto-vetores
-- Aula 20: 28/05 - Operadores diagonalizáveis
-- Aula 21: 04/06 - Teorema da diagonalização (parte 1)
-- Aula 22: 06/06 - Teorema da diagonalização (parte 2)
-- Aula 23: 11/06 - Revisão
-- Aula 24: 13/06 - Atividade avaliativa
+- Aula 19: 28/05 - Auto-valores e auto-vetores
+- Aula 20: 04/05 - Operadores diagonalizáveis
+- Aula 21: 06/06 - Teorema da diagonalização (parte 1)
+- Aula 22: 11/06 - Teorema da diagonalização (parte 2)
+- Aula 23: 13/06 - Revisão
+- Aula 24: 18/06 - Atividade avaliativa
 
 ### Módulo 5
 
-- Aula 25: 18/06 - Produto interno, ângulo, comprimento e métrica
-- Aula 26: 20/06 - Caracterização de produtos internos
-- Aula 27: 25/06 - Ortonormalização de Gram-schimdt
-- Aula 28: 27/06 - Aplicações da álgebra linear
+- Aula 25: 20/06 - Produto interno, ângulo, comprimento e métrica
+- Aula 26: 25/06 - Caracterização de produtos internos
+- Aula 27: 27/06 - Ortonormalização de Gram-schimdt
+- Aula 28: 29/06 - Aplicações da álgebra linear (compensação do dia 09/04)
 - Aula 29: 02/07 - Revisão
 - Aula 30: 04/07 - Atividade avaliativa
 
