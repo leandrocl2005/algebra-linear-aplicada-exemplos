@@ -35,31 +35,31 @@
 - Aula 14: 09/05 - Teorema do isomorfismo
 - Aula 15: 14/05 - Forma matricial de transformações lineares
 - Aula 16: 16/05 - Álgebras lineares e isomorfismo de álgebras lineares
-- Aula 17: 21/05 - Revisão
-- Aula 18: 23/05 - Atividade avaliativa
+- Aula 17: 09/07 - Revisão
+- Aula 18: 16/07 - Atividade avaliativa
 
 ### Módulo 4
 
-- Aula 19: 28/05 - Auto-valores e auto-vetores
-- Aula 20: 04/05 - Operadores diagonalizáveis
-- Aula 21: 06/06 - Teorema da diagonalização (parte 1)
-- Aula 22: 11/06 - Teorema da diagonalização (parte 2)
-- Aula 23: 13/06 - Revisão
-- Aula 24: 18/06 - Atividade avaliativa
+- Aula 19: 11/07 - Auto-valores e auto-vetores
+- Aula 20: 18/07 - Operadores diagonalizáveis
+- Aula 21: 23/07 - Teorema da diagonalização (parte 1)
+- Aula 22: 25/07 - Teorema da diagonalização (parte 2)
+- Aula 23: 30/07 - Revisão
+- Aula 24: 01/08 - Atividade avaliativa
 
 ### Módulo 5
 
-- Aula 25: 20/06 - Produto interno, ângulo, comprimento e métrica
-- Aula 26: 25/06 - Caracterização de produtos internos
-- Aula 27: 27/06 - Ortonormalização de Gram-schimdt
-- Aula 28: 29/06 - Aplicações da álgebra linear (compensação do dia 09/04)
-- Aula 29: 02/07 - Revisão
-- Aula 30: 04/07 - Atividade avaliativa
+- Aula 25: 06/08 - Produto interno, ângulo, comprimento e métrica
+- Aula 26: 08/08 - Caracterização de produtos internos
+- Aula 27: 13/08 - Ortonormalização de Gram-schimdt
+- Aula 28: 20/08 - Revisão
+- Aula 29: 22/08 - Atividade avaliativa
+- Aula 30: 27/08 - Aplicações da álgebra linear
 
 ### Outras datas
 
-- 2ª chamada: 09/07
-- Exame: 23/07
+- 2ª chamada: 03/09
+- Exame: 05/09
 
 ### Avaliação:
 Cada atividade avaliativa vale 2 pontos finais na média final MF.
