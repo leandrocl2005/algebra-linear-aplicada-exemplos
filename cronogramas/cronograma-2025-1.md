@@ -52,14 +52,13 @@
 
 - Aula 25: 22/07 - Produto interno, ângulo, comprimento e métrica
 - Aula 26: 24/07 - Caracterização de produtos internos
-- Aula 27: 18/07 - Ortonormalização de Gram-schimdt
-- Aula 28: 31/07 - Revisão
-- Aula 29: 05/08 - Atividade avaliativa
-- Aula 30: 07/08 - Aplicações da álgebra linear
+- Aula 27: 31/07 - Ortonormalização de Gram-schimdt
+- Aula 28: 05/08 - Revisão
+- Aula 29: 07/08 - Atividade avaliativa
+- Aula 30: 14/08 - 2ª CHAMADA
 
 ### Outras datas
 
-- 2ª chamada: 14/08
 - Exame: 26/08
 
 ### Avaliação:
