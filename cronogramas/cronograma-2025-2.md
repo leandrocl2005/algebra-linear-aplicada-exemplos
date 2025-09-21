@@ -9,7 +9,7 @@
 
 - https://discord.gg/4yFpc6rH
 
-## Cronograma de aulas - 2025 - 1s
+## Cronograma de aulas - 2025 - 2s
 
 ### Módulo 1
 
