@@ -50,10 +50,9 @@
 ### Módulo 5
 
 - Aula 25: 13/01/2026 - Produto interno, ângulo, comprimento e métrica
-- Aula 26: 15/01/2026 - Caracterização de produtos interno
-- Aula 27: 20/01/2026 - Ortonormalização de Gram-schimdt
-- Aula 28: 22/01/2026 - Revisão
-- Aula 29: 27/01/2026 - Atividade avaliativa
+- Aula 26: 15/01/2026 - Explicação sobre o trabalho
+- Aula 27: 20/01/2026 - Tira dúvidas sobre o trabalho
+- Aula 28: 22/01/2026 - Apresentação do trabalho
 - Aula 30: 29/01/2026 - 2ª CHAMADA
 
 ### Outras datas
